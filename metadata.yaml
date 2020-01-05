@@ -1,0 +1,26 @@
+_repo: The-King-of-Elfland-s-Daughter_61077
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dunsany, Lord
+    aliases:
+    - Dunsany, Edward John Moreton Drax Plunkett, Baron
+    - Plunkett, Edward John Moreton Drax, Baron Dunsany
+    birthdate: 1878
+    deathdate: 1957
+    gutenberg_agent_id: '2685'
+    url: http://www.gutenberg.org/2009/agents/2685
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Plunkett,_18th_Baron_Dunsany
+description: ''
+gutenberg_issued: '2020-01-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61077'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The King of Elfland's Daughter
+url: http://www.gutenberg.org/ebooks/61077
